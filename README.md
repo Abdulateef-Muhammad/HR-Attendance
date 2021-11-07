@@ -10,7 +10,7 @@ this project was built as a placement test for Blackgem job vacancy.
 
 ## Technical Reuquirements
 
-- [ ] uisng ReactJS to create UIs.
+- [ x ] uisng ReactJS to create UIs.
 - [ ] adding functionality to handle those UIs.
 - [ ] Adding api to handle backend with front-end.
 - [ ] using mysql as database.
